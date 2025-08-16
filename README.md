@@ -2,6 +2,7 @@
 This is a simple Python script that generates a random hexadecimal color code. It's a fun and easy project for beginners to practice basic Python concepts like loops, lists, and string manipulation.
 
 <hr>
+
 ## How It Works
 The program follows a simple logic:
 
